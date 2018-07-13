@@ -1,7 +1,7 @@
 WebGL dispersion caustics
 ======
 <p align="center">
-	<img src="/screenshots/1.png" style="max-width:100%;" width="800"/><br><img src="/screenshots/2.png" style="max-width:100%;" width="400"/>
+	<img src="/screenshots/1.png" style="max-width:100%;" width="1000"/><br><img src="/screenshots/2.png" style="max-width:100%;" width="1000"/>
 </p>
 
 <br>
