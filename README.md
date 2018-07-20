@@ -13,4 +13,4 @@ with ray-plane intersections inside the mesh fragment shader
 ### See it in action
 
 either download the repo and open the `index.html` inside the `dist` folder or <br>
-see it in action from my website (link available soon)
+[see it in action from my website](https://domenicobrz.github.io/webgl/projects/dispersion caustics/)
